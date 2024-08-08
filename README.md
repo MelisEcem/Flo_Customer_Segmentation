@@ -1,2 +1,3 @@
 # Flo_Customer_Segmentation
- Customer segmentation with RFM analysis
+Data preprocessing phase was applied to the data of the FLO company with the Pandas library.
+Customer segmentation was done with RFM analysis.
